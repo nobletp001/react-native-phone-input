@@ -9,13 +9,23 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@gorhom/bottom-sheet": "^4.6.3",
     "expo": "~51.0.14",
     "expo-status-bar": "~1.12.1",
+    "fuse.js": "^7.0.0",
+    "node-emoji": "^2.1.3",
     "react": "18.2.0",
-    "react-native": "0.74.2"
+    "react-async-hook": "^4.0.0",
+    "react-native": "0.74.2",
+    "react-native-country-flag": "^2.0.2",
+    "react-native-gesture-handler": "~2.16.1",
+    "react-native-reanimated": "~3.10.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0"
+    "@babel/core": "^7.20.0",
+    "@types/react": "^18.3.3",
+    "@types/react-native": "^0.73.0",
+    "typescript": "^5.4.5"
   },
   "private": true
 }
